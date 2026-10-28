@@ -13,6 +13,7 @@ I'm also a Graduate Student Affiliate at the [Kellogg Institute for Internationa
 | [latam-wages-acs](https://github.com/ramascoand/latam-wages-acs) | Latin American immigrants in the U.S. labor market (ACS 2010–2023): wage gaps and college premiums by country of birth, and why Venezuelans earn well below what their education predicts. Stata and Python. |
 | [argentina-mortality](https://github.com/ramascoand/argentina-mortality) | Causes of death in Argentina, 2005–2024. Reconciles health-ministry vital statistics with police records and corrects the suicide rate for deaths of undetermined intent. |
 | [argentina-physicians](https://github.com/ramascoand/argentina-physicians) | A 12-year panel of Argentina's licensed physicians: growth, feminization, foreign training and a 9× gap in doctors per capita across provinces. |
+| [mmm-geo-experiments](https://github.com/ramascoand/mmm-geo-experiments) | Bayesian marketing mix modeling on simulated data with a known ROI: how confounded spend biases the MMM, a geo-holdout experiment (DiD, synthetic control) to calibrate it, and a comparison of multi-touch attribution methods. PyMC-Marketing. |
 | [twfe_diagnostics](https://github.com/ramascoand/twfe_diagnostics) | Python tools to diagnose bias in two-way fixed effects with staggered adoption (Jakiela weights, comparison with Callaway & Sant'Anna). |
 
 #### Contact
